@@ -1,2 +1,1 @@
-class myclass () {}
-class myclass2 () {}
+#class myclass () {}
